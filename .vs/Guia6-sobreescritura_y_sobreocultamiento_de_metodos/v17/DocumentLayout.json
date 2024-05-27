@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\reparaci\u00F3nfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\reparaci\u00F3nfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\cambiaraceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\cambiaraceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guia#6\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\guia6-sobreescritura_y_sobreocultamiento_de_metodos\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0E67F6-A174-4B83-9970-FED613260933}|Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos.csproj|solutionrelative:guia6-sobreescritura_y_sobreocultamiento_de_metodos\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Moto.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Moto.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Moto.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Moto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:05:14.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Servicio.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Servicio.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Servicio.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:08:09.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Vehiculo.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Vehiculo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:01:49.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Program.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwDkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:49:49.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CambiarAceite.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\CambiarAceite.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\CambiarAceite.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\CambiarAceite.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\CambiarAceite.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:14:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Coche.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Coche.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Coche.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Coche.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:11:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reparaci\u00F3nFrenos.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Reparaci\u00F3nFrenos.cs",
+              "RelativeDocumentMoniker": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Reparaci\u00F3nFrenos.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\Guia#6\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Reparaci\u00F3nFrenos.cs",
+              "RelativeToolTip": "Guia6-sobreescritura_y_sobreocultamiento_de_metodos\\Reparaci\u00F3nFrenos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:19:08.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
